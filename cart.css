@@ -1,0 +1,261 @@
+#header {
+  width: 100%;
+  /* border: 1px solid black; */
+  height: 50%;
+}
+.upper {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid black; */
+  font-size: 18px;
+}
+
+.logo img {
+  width: 40%;
+  height: 100%;
+  /* border: 1px solid black; */
+}
+.right {
+  width: 53%;
+  display: flex;
+  /* justify-content: space-between; */
+  /* border: 1px solid black; */
+}
+.language {
+  width: 34%;
+  display: flex;
+  align-items: center;
+
+  /* border: 1px solid black; */
+}
+.language img {
+  /* border: 1px solid black; */
+  width: 13%;
+  height: 20%;
+}
+.language p,
+.cart_logo p {
+  margin-left: 5%;
+}
+.account {
+  width: 10%;
+  height: 30%;
+  margin-top: 4%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+  /* border: 1px solid black; */
+  border-right: 1px solid grey;
+  /* padding-bottom: 6%; */
+}
+.dropdown {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+.dropdown:hover .account {
+  display: block;
+}
+.drop {
+  width: 80%;
+  height: 50%;
+  margin-top: -2%;
+  margin-left: 120px;
+  background-color: whitesmoke;
+  position: absolute;
+  display: none;
+}
+.signin {
+  width: 10%;
+  display: flex;
+  margin-left: 10px;
+  align-items: center;
+  cursor: pointer;
+  /* border: 1px solid black; */
+}
+.cart_logo {
+  width: 10%;
+  display: flex;
+  align-items: center;
+  /* border: 1px solid black; */
+}
+.cart_logo img {
+  width: 26%;
+  height: 30%;
+}
+.search {
+  width: 18%;
+  /* height: 60%; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* border: 1px solid black; */
+  /* text-decoration: underline; */
+}
+.search img {
+  width: 23%;
+  height: 25%;
+}
+.lower {
+  display: flex;
+  /* border: 1px solid black; */
+  justify-content: space-between;
+  width: 70%;
+  margin-left: 5%;
+  color: #434f61;
+  font-family: "Bryant MOO Pro Medium", "Trebuchet MS", Trebuchet,
+    "Liberation Sans", sans-serif;
+}
+
+.footer {
+  width: 80%;
+  height: 70%;
+  /* border: 1px solid black; */
+  margin: auto;
+  display: flex;
+  margin-bottom: 6%;
+  justify-content: space-between;
+}
+.prdoucts {
+  width: 15%;
+  height: 70%;
+}
+li {
+  list-style-type: none;
+  color: green;
+}
+.first_div {
+  height: 30%;
+  padding-left: 15%;
+  font-size: 20px;
+  margin-bottom: 3%;
+}
+.main {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  display: flex;
+  font-size: 22px;
+  font-weight: bold;
+  border-bottom: 1px solid gray;
+  justify-content: space-between;
+  /* border: 1px solid black; */
+}
+.main p {
+  width: 25%;
+  height: 26px;
+  background-color: #434f61;
+  color: white;
+  cursor: pointer;
+  /* border: 1px solid black; */
+}
+.check {
+  text-align: center;
+  color: white;
+  align-self: center;
+  background-color: green;
+  width: 20%;
+  height: 20px;
+  padding: 5px;
+  cursor: pointer;
+}
+.box {
+  width: 46%;
+  height: 170px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  font-size: 22px;
+  font-weight: bold;
+  /* border: 1px solid black; */
+  border-bottom: 1px solid gray;
+  padding: 2%;
+}
+.image {
+  width: 20%;
+  height: 70%;
+}
+.price {
+  font-weight: normal;
+}
+#stickers {
+  width: 90%;
+  height: 20%;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+}
+.box3 {
+  /* border: 1px solid black;
+  */
+  width: 30%;
+}
+.logo_section {
+  width: 100%;
+  height: 40px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+
+  background-color: #152638;
+}
+.logo_section1 li {
+  width: 10%;
+
+  display: flex;
+}
+.list {
+  width: 30%;
+  height: 60%;
+  /* border: 1px solid black; */
+  float: left;
+}
+.list li {
+  list-style-type: none;
+  font-size: 20px;
+  color: #434f61;
+  margin: 4%;
+}
+.left_main {
+  width: 50%;
+  height: 100%;
+  /* border: 1px solid black; */
+  float: right;
+  display: flex;
+  justify-content: space-between;
+}
+.image {
+  width: 47%;
+  height: 100%;
+  /* border: 1px solid black; */
+}
+.image .image_1 img {
+  width: 100%;
+  height: 50%;
+}
+.image_1 p {
+  font-size: 20px;
+}
+.p {
+  font-weight: 900;
+}
+
+.cost {
+  width: 46%;
+  height: 170px;
+  margin: auto;
+  font-size: 20px;
+  font-weight: 700;
+  padding-left: 35%;
+  /* border: 1px solid red; */
+}
+/* #data {
+  width: 70%;
+  /* float: left; 
+} */
