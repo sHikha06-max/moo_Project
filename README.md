@@ -30,8 +30,8 @@ After selecting a particular categories , it takes us to a new page where the us
 After selecting a product User can see the detail information about the product  and can add it to the cart if he or she find any particular product of his or her intrest. 
 
 There is also a Log-in functonality where user can sign up 
-So this is basically my project. We were four members in the team and we completed the whole project in the construct week timeline.  
+So this is basically my project. I completed the whole project in the construct week timeline.  
 
-All the resources which are used in the project either I fetch those from main website or I took from google. All the resources are belongs to their respective owners. I don't have anykind of ownership over any resources. All images are taken from pepperfry.com, google images, unsplash.com or pexels.com are only for educational and learning puropose. All icons and fonts taken from open sources from google search. I have no copyrights over images, icons or fonts.
+All the resources which are used in the project either I fetch those from main website or I took from google. All the resources are belongs to their respective owners. I don't have anykind of ownership over any resources. All images are taken from moo.com,. All icons and fonts taken from open sources from google search. I have no copyrights over images, icons or fonts.
 
 
