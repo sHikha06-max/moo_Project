@@ -17,5 +17,5 @@ function sign_In() {
     window.location.href = "signIn.html"
 }
 setTimeout(function(){
-            window.location.href = 'home.html';
+            window.location.href = 'index.html';
          }, 6000);

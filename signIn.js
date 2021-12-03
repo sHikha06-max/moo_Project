@@ -15,9 +15,9 @@ function home() {
     }
     else {
         alert("You're Logged in");
-        //   document.location.href = 'home.html',true;
+        //   document.location.href = 'index.html',true;
 
-         window.location.href = "home.html"; 
+         window.location.href = "index.html"; 
     }
     
 }
