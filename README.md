@@ -11,8 +11,6 @@ Tools & Technology Used:
 - HTML
 - CSS
 - JavaScript
-- JS-DOM Manipulation
-- JSON
 - Local Storage
 - VS Code editor
 
